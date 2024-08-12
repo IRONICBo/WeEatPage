@@ -3,7 +3,7 @@
 banner:
   title: "weeat ai"
   content: "The memory-driven personalized health management app with private AI."
-  image: "/images/banner.png"
+  image: "/images/design.png"
   button:
     enable: true
     label: "Get Started Now"

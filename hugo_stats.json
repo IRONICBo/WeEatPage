@@ -37,8 +37,6 @@
       "ul"
     ],
     "classes": [
-      "-translate-x-1/2",
-      "-translate-y-1/2",
       "2xl:bg-pink-200",
       "2xl:block",
       "2xl:hidden",
@@ -66,8 +64,6 @@
       "dark:border-darkmode-border",
       "dark:from-darkmode-body",
       "dark:hover:text-darkmode-primary",
-      "dark:opacity-0",
-      "dark:opacity-100",
       "dark:text-darkmode-light",
       "dark:text-darkmode-primary",
       "dark:text-white",
@@ -98,7 +94,6 @@
       "justify-between",
       "justify-center",
       "left-0",
-      "left-1/2",
       "lg:!max-w-[800px]",
       "lg:bg-green-200",
       "lg:block",
@@ -139,8 +134,6 @@
       "navbar",
       "navbar-brand",
       "navbar-nav",
-      "opacity-0",
-      "opacity-100",
       "order-0",
       "order-1",
       "order-3",
@@ -177,6 +170,7 @@
       "space-x-1",
       "sr-only",
       "sticky",
+      "system",
       "text-[12px]",
       "text-black",
       "text-center",
@@ -186,11 +180,9 @@
       "text-light",
       "text-primary",
       "text-xl",
-      "theme-switcher",
       "to-theme-light",
       "top-0",
       "top-1.5",
-      "top-1/2",
       "uppercase",
       "w-[30px]",
       "w-full",
@@ -198,7 +190,6 @@
       "xl:block",
       "xl:hidden",
       "xl:space-x-8",
-      "z-10",
       "z-30",
       "z-50"
     ],
@@ -209,8 +200,7 @@
       "nav-menu",
       "nav-toggle",
       "search-modal-input",
-      "show-button",
-      "theme-switcher"
+      "show-button"
     ]
   }
 }

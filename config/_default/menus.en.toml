@@ -1,0 +1,10 @@
+[[main]]
+name = "Home 🏠"
+pageRef = "/"
+weight = 1
+
+
+[[main]]
+name = "Readme 🔥🔥🔥"
+pageRef = "/blog"
+weight = 1

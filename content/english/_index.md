@@ -1,8 +1,8 @@
 ---
 # Banner
 banner:
-  title: "weeat ai"
-  content: "The memory-driven personalized health management app with private AI."
+  title: "WeEat AI"
+  content: "The memory-driven personalized health management app with private AI, powered by TiDB Serverless."
   image: "/images/design.png"
   button:
     enable: true
@@ -11,43 +11,44 @@ banner:
 
 # Features
 features:
-  - title: "What's Included in WeEat"
-    image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+  - title: "Effective TiDB Serveless Vector Search Engine"
+    image: "/images/page1.png"
+    content: "WeEat is a cutting-edge health management app that revolutionizes how users manage their health through advanced AI and database technologies, including the robust TiDB Serverless platform."
     bulletpoints:
-      - "10+ Pre-build pages"
-      - "95+ Google Pagespeed Score"
-      - "Build with Hugo and TailwindCSS for easy and customizable styling"
-      - "Fully responsive on all devices"
-      - "SEO-optimized for better search engine rankings"
-      - "**Open-source and free** for personal and commercial use"
-    button:
-      enable: false
-      label: "Get Started Now"
-      link: "https://github.com/Renaissance0412/WeEat"
-
-  - title: "Discover the Key Features Of WeEat"
-    image: "/images/service-2.png"
-    content: "Hugo is an all-in-one web framework for building fast, content-focused websites. It offers a range of exciting features for developers and website creators. Some of the key features are:"
-    bulletpoints:
-      - "Zero JS, by default: No JavaScript runtime overhead to slow you down."
-      - "Customizable: Tailwind, MDX, and 100+ other integrations to choose from."
-      - "UI-agnostic: Supports React, Preact, Svelte, Vue, Solid, Lit and more."
+      - "Personalized meal plans and health recommendations based on real-time data."
+      - "TiDB Serverless ensures seamless and scalable data management, handling both traditional and AI-driven workloads with ease."
+      - "Leverage TiDB's Vector Search for lightning-fast, semantic queries that enhance user experience."
+      - "Cost-effective and highly scalable, ensuring performance under heavy loads."
+      - "**Open-source and free** for personal and commercial use."
     button:
       enable: true
-      label: "Get Started Now"
-      link: "https://github.com/zeon-studio/hugoplate"
+      label: "Download WeEat APK"
+      link: "https://drive.google.com/file/d/1JkEE0XUr8laEaBhO_1kK4gBy-xKxOAt2/view?usp=drive_link"
 
-  - title: "The Top Reasons to Choose for Your WeEat Project"
-    image: "/images/service-3.png"
-    content: "With WeEat, you can build modern and content-focused websites without sacrificing performance or ease of use."
+  - title: "Discover the Key Features Of WeEat"
+    image: "/images/page2.png"
+    content: "WeEat combines state-of-the-art AI with TiDB Serverless to deliver unmatched performance and user personalization. Key features include:"
     bulletpoints:
-      - "Instantly load static sites for better user experience and SEO."
-      - "Intuitive syntax and support for popular frameworks make learning and using Hugo a breeze."
-      - "Use any front-end library or framework, or build custom components, for any project size."
-      - "Built on cutting-edge technology to keep your projects up-to-date with the latest web standards."
+      - "TiDB Serverless: A cloud-native database that seamlessly integrates traditional and AI workloads, providing unmatched scalability and performance."
+      - "Vector Search: Enables advanced semantic search capabilities, making user interactions more intuitive and efficient."
+      - "Adaptive Learning: Continuously updates recommendations based on the latest data, ensuring users always get the most relevant advice."
+      - "Private AI: All data is processed securely, ensuring users' privacy is maintained."
     button:
-      enable: false
-      label: ""
-      link: ""
+      enable: true
+      label: "Get Our Slides"
+      link: "https://docs.google.com/presentation/d/1mwxoSkhOdRh0JVrBGcEaJqHIWSsTXmKg/edit?usp=drive_link&ouid=106384117598596394728&rtpof=true&sd=true"
+
+  - title: "Why TiDB Serverless is a Game Changer for WeEat"
+    image: "/images/page3.png"
+    content: "TiDB Serverless plays a pivotal role in powering WeEat's advanced features, making it the ideal choice for handling complex health data."
+    bulletpoints:
+      - "Scalability: TiDB Serverless effortlessly scales to meet the demands of both traditional and AI-driven workloads, ensuring smooth performance no matter the load."
+      - "Cost Efficiency: Provides an economical solution without compromising on performance, making advanced health management accessible to more users."
+      - "Semantic Search: TiDB's Vector Search technology enables fast, accurate, and context-aware searches, dramatically improving the user experience."
+      - "Versatility: Handles a wide range of data types and queries, from simple lookups to complex AI-driven insights, all within a single platform."
+    button:
+      enable: true
+      label: "Get Our Code"
+      link: "https://github.com/Renaissance0412/WeEat"
+
 ---
